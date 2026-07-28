@@ -1,0 +1,15 @@
+import BasicHypergeometricOneVariable.BasicHypergeometricObjects
+import BasicHypergeometricOneVariable.AdmissibleClass
+import BasicHypergeometricOneVariable.BridgeLemmas
+import BasicHypergeometricOneVariable.GateLemmas
+import BasicHypergeometricOneVariable.HeineTransformation
+import BasicHypergeometricOneVariable.qSeriesIdentities
+import BasicHypergeometricOneVariable.FinalTheorem
+
+namespace HautevilleHouse
+namespace BasicHypergeometricOneVariable
+
+-- Root module for Basic Hypergeometric Functions One Variable
+
+end BasicHypergeometricOneVariable
+end HautevilleHouse
